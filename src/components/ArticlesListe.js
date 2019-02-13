@@ -4,9 +4,6 @@ import { connect } from 'react-redux';
 class ArticlesListe extends Component {
     constructor(props){
         super(props);
-        this.state = {
-            articles:[]
-        }
     }
    
   render() {
